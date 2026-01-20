@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Interests"
+    url: /research/
+
+  - title: "PhD Objective"
+    url: /phd-objective/
+
   - title: "Talks"
     url: /talks/    
 
